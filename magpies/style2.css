@@ -1,0 +1,21 @@
+.img {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: pink;
+	width: 45%
+}
+
+.h1 {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: gold;
+	width: 50%
+}
+
+body {
+	background-image: url('monke.png');
+}

@@ -28,4 +28,6 @@
 
 body {
 	background-image: url('selcom.png');
+	background-size: cover;
+	background-attachment: fixed
 }

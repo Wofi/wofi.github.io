@@ -1,0 +1,27 @@
+.k1 {
+    position: absolute;
+    top: 33%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+}
+
+.eye {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.box{
+    padding: 25px;
+    background: red;
+}
+
+.center{
+	display:inline-block;
+	margin: auto;
+}
+
+body {
+	background-color: #494a70;
+}

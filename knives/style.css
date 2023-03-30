@@ -1,20 +1,31 @@
 .k1 {
     position: absolute;
-    top: 33%;
-    left: 33%;
+    left: 200px;
+	top: 150px;
+    transform: translate(-50%, -50%);
+}
+.k2 {
+    position: absolute;
+    left: 300px;
+    transform: translate(-50%, -50%);
+}
+
+.k3 {
+    position: absolute;
+    left: 200px;
+	top: -150px;
     transform: translate(-50%, -50%);
 }
 
 .eye {
 	position: absolute;
-	top: 50%;
-	left: 50%;
 	transform: translate(-50%, -50%);
 }
 
 .box{
-    padding: 25px;
-    background: red;
+	position: fixed;
+	top: 50%;
+	left: 50%;
 }
 
 .center{
